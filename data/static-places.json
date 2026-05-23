@@ -2010,47 +2010,5 @@
     "details": "Open Fri–Tue. First two floors are free. Full admission ~$25. The rooftop garden is a hidden gem.",
     "lat": 37.7857,
     "lng": -122.4011
-  },
-  {
-    "id": "home-15104-nw-89th-ct",
-    "name": "Ur moms house",
-    "tag": "safe",
-    "location": "15104 NW 89th Ct, Hialeah, FL 33018, USA",
-    "mapLink": "https://www.google.com/maps/search/?api=1&query=15104+NW+89th+Ct,+Hialeah,+FL+33018",
-    "cornerLink": "",
-    "curatorComment": "Added from the new screenshot; Miami Lakes / Hialeah border home base.",
-    "safetyLabel": "Home base",
-    "safetyHighlights": "Close to Miami Lakes Main Street, Veteran's Park, Royal Oaks Park, and The Shoppes of Highland.",
-    "description": "Private residence on the Hialeah and Miami Lakes border. Use it as a home base for nearby parks, shopping, and dinner spots.",
-    "details": "Nearby things to do: Veteran's Park, Royal Oaks Park, Main Street Miami Lakes, El Churrascaso Grill, First Watch, CAVA, and The Shoppes of Highland.",
-    "nearbyThings": [
-      {
-        "name": "Veteran's Park",
-        "note": "Quick park stop with basketball courts, picnic tables, and a playground.",
-        "mapLink": "https://maps.google.com/?cid=279139417691778357"
-      },
-      {
-        "name": "Main Street Miami Lakes",
-        "note": "Open-air dining, shops, a cinema, and live theater in the area's social hub.",
-        "mapLink": "https://maps.google.com/?cid=5306698378845593979"
-      },
-      {
-        "name": "El Churrascaso Grill - Miami Lakes",
-        "note": "Highly rated Latin grill for steak, cocktails, and outdoor seating.",
-        "mapLink": "https://maps.google.com/?cid=13378287095612116110"
-      },
-      {
-        "name": "First Watch",
-        "note": "Breakfast and brunch spot with healthy omelets, salads, and fresh juices.",
-        "mapLink": "https://maps.google.com/?cid=8946469442993134154"
-      },
-      {
-        "name": "Royal Oaks Park",
-        "note": "Large park with fields, a trail, a playground, and a butterfly garden.",
-        "mapLink": "https://maps.google.com/?cid=2744698867050062779"
-      }
-    ],
-    "lat": 25.9104867,
-    "lng": -80.3458611
   }
 ]
